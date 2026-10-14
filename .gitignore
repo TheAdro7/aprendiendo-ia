@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datos locales, trazas y dependencias
+*.db
+*.sqlite
+data/
+trazas/
+node_modules/
